@@ -9,7 +9,7 @@ This project contains two stages:
 product. You will need to use text files to store input and output data from the program.
 2. In Stage 2 **(this repo)**, you will upgrade the product to a Graphical User Interface (GUI) version. Meanwhile, you will include a Database component to the product, implement design patterns and include necessary unit tests.
 
-* Must be developed using Java in the NetBeans IDE.
+* Must be developed using Java in the [NetBeans IDE](https://netbeans.org).
 * Be bug-free and feature robust error handling.
 * Should be easy to build (no complex build configurations).
 * Needs to use 
