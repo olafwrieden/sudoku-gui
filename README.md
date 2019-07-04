@@ -22,11 +22,11 @@ product. You will need to use text files to store input and output data from the
     
   Completed | Requirement
 :------------ | :-------------|
-:heavy_check_mark: | User Interface (GUI)<ul><li>Clear and well-designed graphical user interface</li><li>The interface is easy for users to interact with</li></ul>
-:heavy_check_mark: |  Database<ul><li>The program contains a database element</li><li>Can achieve database interactions and operations in the program</li></ul>
-:heavy_check_mark: |  Software functionality and usability<ul><li>The program is easy to compile and run without any manual configurations (e.g. set up input/output files, import .jar files, etc.)</li><li>The program can be easily interacted with without any errors</li><li>The complexity of the functionality</li></ul>
-:heavy_check_mark: |  Software design & implementation<ul><li>The program can be compiled successfully</li><li>Highly readable code</li><li>Meaningful and appropriate comments</li><li>Executes without runtime errors</li><li>Robust error handling</li><li>Clear class structure</li><li>Implementation of design patterns</li><li>Good coding and Object Orientation style</li><li>No obvious code smells</li></ul>
-:heavy_check_mark: |  Unit Testing<ul><li>Correct Tests</li><li>Tests cover important functionality well</li><li>Well-named tests</li></ul>
+:heavy_check_mark: | **User Interface (GUI)**<ul><li>Clear and well-designed graphical user interface</li><li>The interface is easy for users to interact with</li></ul>
+:heavy_check_mark: |  **Database**<ul><li>The program contains a database element</li><li>Can achieve database interactions and operations in the program</li></ul>
+:heavy_check_mark: |  **Software functionality and usability**<ul><li>The program is easy to compile and run without any manual configurations (e.g. set up input/output files, import .jar files, etc.)</li><li>The program can be easily interacted with without any errors</li><li>The complexity of the functionality</li></ul>
+:heavy_check_mark: |  **Software design & implementation**<ul><li>The program can be compiled successfully</li><li>Highly readable code</li><li>Meaningful and appropriate comments</li><li>Executes without runtime errors</li><li>Robust error handling</li><li>Clear class structure</li><li>Implementation of design patterns</li><li>Good coding and Object Orientation style</li><li>No obvious code smells</li></ul>
+:heavy_check_mark: |  **Unit Testing**<ul><li>Correct Tests</li><li>Tests cover important functionality well</li><li>Well-named tests</li></ul>
 
   </p>
 </details>
