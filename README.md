@@ -83,6 +83,6 @@ If you have incorrectly configured the Apache Derby client required for this pro
 ![Database Error](/screenshots/db-error.png)
 
 ### See something that can be improved?
-While this is not an active project of mine, I would love to hear from you. Feel free to submit a Pull Request if you can improve this repository or open an issue should you encounter a bug. 🐞
+While this is not an active project of mine, I would love to hear from you. Feel free to submit a Pull Request if you can improve this repository, or open an issue should you encounter a bug. 🐞
 
 
